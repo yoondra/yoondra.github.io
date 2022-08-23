@@ -1,5 +1,6 @@
-title: 윤재성 github Page
-description: A description of your site's purpose
+title: [The title of your site]
+#title: 윤재성 github Page
+description: A short description of your site's purpose
 
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
