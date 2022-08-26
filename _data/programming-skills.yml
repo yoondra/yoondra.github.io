@@ -1,11 +1,11 @@
-- name: HTML5/CSS3
+- name: C
   percentage: 90
   color: danger
 
-- name: Go
-  percentage: 80
+- name: C#
+  percentage: 60
   color:
 
 - name: Python
-  percentage: 70
+  percentage: 50
   color: secondary
